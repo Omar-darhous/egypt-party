@@ -1,0 +1,125 @@
+.sec1
+{
+    height: 90vh;
+    background-image: url(../images/egypt-south-1200-1603212169.png);
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+.part-1 h2
+{
+    font-size: 50px;
+}
+.layer
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(92, 196, 228, 0.6);
+    
+    
+}
+.sec2
+{
+    margin-top: 5%;
+    width: 50%;
+    margin-bottom: 5%;
+}
+.sec2 h2
+{
+    cursor: pointer;
+    background-color: rgb(92, 196, 228);
+    padding: 10px 5px;
+    font-size:24px ;
+    color: #fff;
+    margin: 0;
+}
+.sec2 p
+{
+    margin: 0;
+    background-color: #ccc;
+    
+}
+#demo {
+    font-size: 50px;
+    margin: 10%;
+    color: #fff;
+  }
+.sec3
+{
+    height: 30vh;
+    background-image: url(../images/depositphotos_102445168-stock-photo-diverse-people-holding-hands.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.layer-2
+{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(92, 196, 228, 0.6);
+}
+.p1
+{
+    width: 40%;
+    margin-top: 10%;
+}
+.p2
+{
+    height: 30vh;
+    width: 35%;
+}
+.s-1
+{
+    color: #ccc;
+}
+.s-1:hover
+{
+    background-color: red;
+    color: #fff;
+}
+#site-par
+{
+    width: 10%;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    height: 100vh;
+}
+.box
+{
+    height: 100vh;
+    background-color: #414658;
+    padding: 10px;
+    border: solid 5px #333;
+}
+.box i
+{
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+}
+.box i:hover
+{
+    color: brown;
+}
+
+.icon
+{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+.box a
+{
+    padding: 20px 8px 20px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    color: white;
+}
+.box a:hover
+{
+    color: brown;
+}
